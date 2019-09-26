@@ -1,2 +1,2 @@
-# google-sheets-scripts
+# Scripts for Google sheets
 Utility scripts developed for Google Sheets
